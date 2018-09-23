@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ti Ta Two</string>
+    <string name="p1_default">Player 1: 0</string>
+    <string name="p2_default">Player 2: 0</string>
+    <string name="restart">Restart</string>
+    <string name="playing_turn">Turn: Player 1</string>
+    <string name="about_app">About</string>
+
+    // about
+    <string name="app_about">Thank you for using our apps! Ti Ta Two is a simple game adapted from the classic tic tac toe game that everyone love! We don\'t use any ads for better experience. We will work hard to constantly improving the application features and performance.</string>
+    <string name="app_version">version: 1.0-beta</string>
+    <string name="team_programmer">Programmer:</string>
+    <string name="app_content">Content:</string>
+</resources>
