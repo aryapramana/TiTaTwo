@@ -19,7 +19,7 @@
             android:layout_marginTop="8dp"
             android:text="@string/p1_default"
             android:layout_centerHorizontal="true"
-            android:textSize="18sp"
+            android:textSize="14sp"
             android:freezesText="true"/>
 
         <TextView
@@ -27,7 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/p2_default"
-            android:textSize="18sp"
+            android:textSize="14sp"
             android:layout_below="@id/p1_score"
             android:layout_centerInParent="true"
             android:freezesText="true"/>
